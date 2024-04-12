@@ -1,0 +1,60 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Flask",
+      "imageSrc": "skills/flask1.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+    ,
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "c",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "c++",
+      "imageSrc": "skills/c++.png"
+    },
+    {
+      "title": "Fast API",
+      "imageSrc": "skills/fast.webp"
+    },
+    {
+      "title": "postman",
+      "imageSrc": "skills/postman.png"
+    }
+
+  ]

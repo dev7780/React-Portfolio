@@ -1,0 +1,14 @@
+[
+    {
+      "role": "Intern Trainee ( Developer )",
+      "organisation": "Globalsoft.Inc",
+      "startDate": "Apr, 2023",
+      "endDate": "Jul, 2023",
+      "months": "4 Months",
+      "experiences": [
+        "Worked on  Python, FASTapi, Flask, API, JSON, React",
+        "About the project - The MDM data migration project integrates Dun & Bradstreet (D&B) data, enhancing master data management. It includes Identity Resolution and Enrich Call modules for deduplication and data enrichment. The user-friendly UI, built with Flask and FastAPI, ensures secure token-based authentication. The project promotes seamless data exchange, and future enhancements focus on optimizing time efficiency. Additionally, .dat file integration expands the scope of master data enrichment."
+      ],
+      "imageSrc": "history/globalsoft.png"
+    }
+  ]
